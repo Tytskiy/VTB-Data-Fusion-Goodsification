@@ -1,7 +1,7 @@
 # VTB-Data-Fusion-Goodsification
-Сheck recognition competition
+Receipt classification competition
 
-__С этим решением мы заняли 19 место на прайвате и 20 место на паблике__
+__Private:19/265__
 
 ### Команда Students:  
 
